@@ -9,3 +9,6 @@
 - 🔭 I’m currently working on: Some private projects
 - 🌱 I’m currently learning: C++
 - 📫 How to reach me: on discord: Not_H3#6969
+
+
+# In this repo i will post open sourced projects, Check them out!
