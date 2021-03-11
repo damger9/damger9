@@ -6,6 +6,6 @@
 
 
 
-- 🔭 I’m currently working on: Some private projects
-- 🌱 I’m currently learning: C++
-- 📫 How to reach me: on discord: Not_H3#6798
+- 🔭 I’m currently working on: Troll
+- 🌱 I’m currently learning: C++ 
+- 📫 How to reach me: on discord: Not_H3#6798 
