@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=damger9&show_icons=true&count_private=true&theme=tokyonight)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=damger9&show_icons=true&count_private=true&theme=tokyonight)]()
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damger9&hide=css&layout=compact&theme=tokyonight)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damger9&hide=css&layout=compact&theme=tokyonight)]()
 
 
 
