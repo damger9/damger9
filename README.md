@@ -7,5 +7,5 @@
 
 
 - 🔭 I’m currently working on: A Garry's Mod Server-Mod!
-- 🌱 I’m currently learning: C++ 
+- 🌱 I’m currently learning: Nothing
 - 📫 How to reach me: on discord: Not_H3#6798 
