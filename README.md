@@ -6,6 +6,6 @@
 
 
 
-- 🔭 I’m currently working on: Absolutely Nothing
-- 🌱 I’m currently learning: Nothing
+- 🔭 I’m currently working on: DamBot & My home server setup
+- 🌱 I’m currently learning: Linux & Network security
 - 📫 How to reach me: on discord: Not_H3#6798 
