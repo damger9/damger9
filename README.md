@@ -8,4 +8,4 @@
 
 - 🔭 I’m currently working on: DamBot & My home server setup
 - 🌱 I’m currently learning: Linux
-- 📫 How to reach me: on discord: Not_H3#6798 
+- 📫 How to reach me: Not_H3#6798 (On Discord)
