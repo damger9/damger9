@@ -5,7 +5,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damger9&hide=css&layout=compact&theme=tokyonight)]()
 
 
-
-- 🔭 I’m currently working on: DamBot & My home server setup
-- 🌱 I’m currently learning: Linux
-- 📫 How to reach me: Not_H3#6798 (On Discord)
+- 🔭 I’m currently working on: LuaUtils
+- 🌱 I’m currently learning: x
+- 📫 How to reach me: not_h3 (On Discord)
