@@ -13,11 +13,11 @@
 ### About me
 I'm Not_H3, A programmer based in the Netherlands. I program in a number of languages but my favorite ones are:
 
-- Lua(u) - ~2-3 years of experience.
-I mainly code roblox games using lua, Worked on a number of projects including a game known as 'Super Blox Soccer', which averages on about a thousand online users at all times. Currently making my own roblox games as well.
+- Lua(u) - ~3-4 years of experience.
+I mainly code roblox games using lua, Worked on a number of projects including a game known as 'Super Blox Soccer', which averages on about a thousand online users at all times. I am currently making my own roblox games as well.
 
-- JavaScript (Node.Js) - ~2-3 years of experience.
+- JavaScript (Node.Js) - ~3-4 years of experience.
 Using JS, I mainly code backend applications like APIs using express. I also code discord bots that often include database integrations such as MySQL or MongoDB.
 
 - C# & C++
-I am currently learning C# and C++, Haven't made any finished projects yet but I've bee working on a .NET version of my discord bot.
+I am currently learning C# and C++. No projects done with these languages yet.
