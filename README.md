@@ -13,8 +13,8 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on: LuaUtils
-- 🌱 I’m currently learning: x
+- 🔭 I’m currently working on: disutility (discord utility package for NodeJS programs)
+- 🌱 I’m currently learning: C#/C++
 - 📫 How to reach me: not_h3 (On Discord)
 - ☁ My [website](https://h3dev.xyz) (Excuse the unfinished website I'm not a good frontend desinger (yet).
 
