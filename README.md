@@ -27,5 +27,7 @@ I mainly code roblox games using lua, Worked on a number of projects including a
 - JavaScript (Node.Js) - ~3-4 years of experience.
 Using JS, I mainly code backend applications like APIs using express. I also code discord bots that often include database integrations such as MySQL or MongoDB.
 
+- Typescript - A few months now - Using my JavaScript knowledge it was fairly easy to get familiar with TypeScript.
+
 - C# & C++
 I am currently learning C# and C++. No projects done with these languages yet.
