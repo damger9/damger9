@@ -13,7 +13,6 @@ Software & Embedded developer from Groningen, the Netherlands.
 - [MusicBot](https://github.com/050soft/MusicBot) - Discord music bot with Last.fm and Discogs integration
 - SkyBridge - Private Minecraft reverse proxy written in Rust
 - Equity050 - Private Full-stack bookkeeping application
-- And much more!
 
 ## Contact
 Interested in hosting, custom tooling or embedded work? Feel free to reach out! I'm always open to interesting projects.
