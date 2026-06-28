@@ -15,6 +15,8 @@ Software & Embedded developer from Groningen, the Netherlands.
 - Equity050 — Private Full-stack bookkeeping application
 
 ## Contact
+Always open to interesting projects - don't hesitate to get in touch with me!
+
 🌍 [damiandev.nl](https://damiandev.nl/contact)  
 📧 damian@damiandev.nl
--
+
