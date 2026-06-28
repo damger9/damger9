@@ -9,6 +9,7 @@ Software & Embedded developer from Groningen, the Netherlands.
 
 ## Projects
 - [050nodes](https://050nodes.com) — Hosting infrastructure built on Proxmox
+- [050soft](https://github.com/050soft) - Software solutions, both open and closed source.
 - [MusicBot](https://github.com/050soft/MusicBot) — Discord music bot with Last.fm and Discogs integration
 - SkyBridge - Private Minecraft reverse proxy written in Rust
 - Equity050 — Private Full-stack bookkeeping application
