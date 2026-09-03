@@ -8,14 +8,12 @@ Software & Embedded developer from Groningen, the Netherlands.
 - Server infrastructure for 050nodes/050soft
 
 ## Projects
-- [050nodes](https://050nodes.com) - Hosting infrastructure built on Proxmox
 - [050soft](https://github.com/050soft) - Software solutions, both open and closed source.
 - [MusicBot](https://github.com/050soft/MusicBot) - Discord music bot with Last.fm and Discogs integration
 - SkyBridge - Private Minecraft reverse proxy written in Rust
-- Equity050 - Private Full-stack bookkeeping application
 
 ## Contact
-Interested in hosting, custom tooling or embedded work? Feel free to reach out! I'm always open to interesting projects.
+Interested in custom tooling or embedded work? Feel free to reach out! I'm always open to interesting projects.
 
 🌍 [damiandev.nl](https://damiandev.nl/contact)  
 📧 damian@damiandev.nl
